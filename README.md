@@ -1,4 +1,4 @@
-### Hello! 👋🏻 
+### hello folks! 👋🏻 
 I have a passion for learning and sharing my knowledge with others...
 
 <!--
