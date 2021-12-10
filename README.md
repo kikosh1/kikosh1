@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 
 <br/>  
 
+![](images/devops.png)
+
+<br/>
+
 ### Connect with me:  
 <div align="center">
 <a href="https://github.com/kikosh1" target="_blank">
