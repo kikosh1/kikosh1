@@ -1,4 +1,5 @@
-### Hello! 👋🏻
+### Hello! 👋🏻 
+I have a passion for learning and sharing my knowledge with others...
 
 <!--
 **kikosh1/kikosh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
