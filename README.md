@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 + 🌱 I’m trying to spend time learning AWS and Azure... 
 + ⚡ Fun fact: never poked my nose for ART kits :)
 
-<br/>  
-
 ### Connect with me:  
 <div align="center">
 <a href="https://github.com/kikosh1" target="_blank">
