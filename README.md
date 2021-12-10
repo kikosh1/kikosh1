@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <br/>  
 
-<img src="images/devops.png>
+- <img src="images/devops.png>
 
 ### Connect with me:  
 <div align="center">
