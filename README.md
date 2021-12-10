@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 <br/>  
 
-** <img src="images/devops.png>
-
 ### Connect with me:  
 <div align="center">
 <a href="https://github.com/kikosh1" target="_blank">
