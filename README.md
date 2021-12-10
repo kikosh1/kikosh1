@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 -->
 + 📝 Favorite editor: VS Code
 + 🌱 I’m trying to spend time learning AWS and Azure... 
++ ⚡ Fun fact: so far I never used ART kits :)
 
 <br/>  
 
