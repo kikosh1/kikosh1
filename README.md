@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 + 📝 Favorite editor: VS Code
 + 🌱 I’m trying to spend time learning AWS and Azure... 
-+ ⚡ Fun fact: how can i type singlish in linux? $ls -lah  :)
++ ⚡ Fun fact: Linux understand commands given in singlish (Singaporean English) like this... $ls -lah :)
 
 ### My skill set:
 
