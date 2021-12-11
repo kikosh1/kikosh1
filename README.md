@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 -->
 + 📝 Favorite editor: VS Code
 + 🌱 I’m trying to spend time learning AWS and Azure... 
-+ ⚡ Fun fact: never poked my nose for ART kits :)
++ ⚡ Fun fact: how can i type singlish in linux? $ls -lah  :)
 
-### My Skill Set:
+### My skill set:
 
 ![devops2](https://user-images.githubusercontent.com/92835441/145664201-d21df2cf-668c-43e7-91b5-dd4a8503fa0f.png)
 
