@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 + 🌱 I’m trying to spend time learning AWS and Azure... 
 + ⚡ Fun fact: never poked my nose for ART kits :)
 
+### My Skill Set:
+
 ![devops2](https://user-images.githubusercontent.com/92835441/145664201-d21df2cf-668c-43e7-91b5-dd4a8503fa0f.png)
 
 ### Connect with me:  
